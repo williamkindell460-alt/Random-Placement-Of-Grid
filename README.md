@@ -1,2 +1,2 @@
-\# Random-Placement-Of-Grid
+# Random-Placement-Of-Grid
 
