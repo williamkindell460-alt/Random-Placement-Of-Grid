@@ -62,8 +62,8 @@ Or with extras
 H H H H H 
 H H H H H 
 H H H H H 
-H H H H H 
-A placed at (3, 2) to ensure appearance.
+H H H H H
+A H H
 ```
 # GUI Flow
 1. Enter number of rows → Submit
